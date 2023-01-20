@@ -64,3 +64,6 @@ for a, o, r in agent.history:
     data_reward.append(r)
 data = {"action": data_action, "observation": data_observation, "reward": data_reward}
 '''
+
+
+print('hh')
